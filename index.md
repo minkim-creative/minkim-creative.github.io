@@ -5,3 +5,6 @@ benefitted by good product descriptions that include SEO rich keywords.
 
 ![jpg](./images/yoshiaki_ito_edited.jpg)
 [Product Page](https://sothebyshome.com/yoshiaki-ito-yosegi-stool-sea-63536-52484.html#)
+
+![jpg](./images/poliform_sofa_edited.jpg)
+[Product Page](https://sothebyshome.com/poliform-long-island-05-sofa-and-service-tables-sea-58946-47687.html)
