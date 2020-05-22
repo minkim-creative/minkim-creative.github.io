@@ -11,14 +11,14 @@ E-Commerce is an ever-changing industry that is continuously growing. Billions o
 ![jpg](./images/poliform_sofa_edited.jpg)
 [Product Page](https://sothebyshome.com/poliform-long-island-05-sofa-and-service-tables-sea-58946-47687.html)
 
----
+***
 
 # Email Copy
 Congratulations! You’ve gotten your clients to sign up to receive daily emails that are going to bombard their inbox. Or perhaps it was just the fun and witty content that came with the promotion notifications. No matter what kind of tone you want the writing to convey, smart writing can increase a person back to your webpage.
 ![jpg](./images/BlingJewelry-August-Birthstone.jpg)
 ![jpg](./images/BlingJewelry-summer-nautical-jewelry.jpg)
 
----
+___
 
 # Website Copy
 There are many factors that go into a great website such as an user-friendly interface, visually appealing graphics, and of course great content. No matter what type of voice you want to channel for your page, I can be the writing chameleon that will adopt engaging copy that will entice the reader to stay and enjoy the information.
