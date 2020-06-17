@@ -14,12 +14,21 @@ E-Commerce is an ever-changing industry that is continuously growing. Billions o
 
 ***
 
+# Branding Copy
+Kickstarting or rebranding your company is always challenging. But it’s an exciting opportunity for creatives to collaborate and develop wonderful content. A brand definitely needs a voice - a core visual that will let your audience understand who you are and what your brand represents. Great copywriting can shape the brand and give it life. I’ve had the privilege to work with great teams to help brainstorm and write content for various clients, anywhere from taglines to web copy.
+
+### Previous Clients
+[Archie](https://www.callarchie.com/)
+[Layers](https://layerslife.com/)
+
+***
+
 # Email Copy
 Congratulations! You’ve gotten your clients to sign up to receive daily emails that are going to bombard their inbox. Or perhaps it was just the fun and witty content that came with the promotion notifications. No matter what kind of tone you want the writing to convey, smart writing can increase a person back to your webpage.
 ![jpg](./images/BlingJewelry-August-Birthstone.jpg)
 ![jpg](./images/BlingJewelry-summer-nautical-jewelry.jpg)
 
-___
+***
 
 # Website Copy
 There are many factors that go into a great website such as an user-friendly interface, visually appealing graphics, and of course great content. No matter what type of voice you want to channel for your page, I can be the writing chameleon that will adopt engaging copy that will entice the reader to stay and enjoy the information.
