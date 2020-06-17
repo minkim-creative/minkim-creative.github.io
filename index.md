@@ -25,8 +25,8 @@ Kickstarting or rebranding your company is always challenging. But it’s an exc
 
 # Email Copy
 Congratulations! You’ve gotten your clients to sign up to receive daily emails that are going to bombard their inbox. Or perhaps it was just the fun and witty content that came with the promotion notifications. No matter what kind of tone you want the writing to convey, smart writing can increase a person back to your webpage.
-![jpg](./images/BlingJewelry-August-Birthstone.jpg | width=100)
-<img src="./images/BlingJewelry-August-Birthstone.jpg" width="100">
+
+<img src="./images/BlingJewelry-August-Birthstone.jpg" width="400">
 
 ![jpg](./images/BlingJewelry-summer-nautical-jewelry.jpg)
 
