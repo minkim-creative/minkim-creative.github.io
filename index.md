@@ -18,8 +18,8 @@ E-Commerce is an ever-changing industry that is continuously growing. Billions o
 Kickstarting or rebranding your company is always challenging. But it’s an exciting opportunity for creatives to collaborate and develop wonderful content. A brand definitely needs a voice - a core visual that will let your audience understand who you are and what your brand represents. Great copywriting can shape the brand and give it life. I’ve had the privilege to work with great teams to help brainstorm and write content for various clients, anywhere from taglines to web copy.
 
 ### Previous Clients
-[Archie](https://www.callarchie.com/)
-[Layers](https://layerslife.com/)
+- [Archie](https://www.callarchie.com/)
+- [Layers](https://layerslife.com/)
 
 ***
 
