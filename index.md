@@ -19,7 +19,9 @@ Kickstarting or rebranding your company is always challenging. But it’s an exc
 
 ### Previous Clients
 - [Archie](https://www.callarchie.com/)
+![png](./images/archie_landing.png)
 - [Layers](https://layerslife.com/)
+![png](./images/layers_landing.png)
 
 ***
 
