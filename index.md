@@ -11,6 +11,11 @@ E-Commerce is an ever-changing industry that is continuously growing. Billions o
 ![png](./images/west_elm_coffee_table_3.png)
 [Product Page](https://www.westelm.com/products/mid-century-art-display-round-coffee-table-cloud-h4475/)
 
+![png](./images/west_elm_desk_1.png)
+![png](./images/west_elm_desk_2.png)
+![png](./images/west_elm_desk_3.png)
+[Product Page](https://www.westelm.com/products/jensen-desk-h1694/)
+
 ![jpg](./images/yoshiaki_ito_edited.jpg)
 [Product Page](https://sothebyshome.com/yoshiaki-ito-yosegi-stool-sea-63536-52484.html#)
 
