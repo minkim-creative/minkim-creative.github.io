@@ -6,19 +6,24 @@ Greetings and salutations! My name is Min and I’m a copywriter who likes to ts
 E-Commerce is an ever-changing industry that is continuously growing. Billions of products are sold online every single day. But the difference in sellable and non sellable merchandise can be benefitted by good product descriptions that include SEO rich keywords.
 
 ### Active Listings
+
+#### West Elm - Round Coffee Table
 ![png](./images/west_elm_coffee_table_1.png)
 ![png](./images/west_elm_coffee_table_2.png)
 ![png](./images/west_elm_coffee_table_3.png)
 [Product Page](https://www.westelm.com/products/mid-century-art-display-round-coffee-table-cloud-h4475/)
 
+#### West Elm - Jensen Desk
 ![png](./images/west_elm_desk_1.png)
 ![png](./images/west_elm_desk_2.png)
 ![png](./images/west_elm_desk_3.png)
 [Product Page](https://www.westelm.com/products/jensen-desk-h1694/)
 
+#### Sotheby's Home - Yoshiaki Ito
 ![jpg](./images/yoshiaki_ito_edited.jpg)
 [Product Page](https://sothebyshome.com/yoshiaki-ito-yosegi-stool-sea-63536-52484.html#)
 
+#### Sotheby's Home - Poliform
 ![jpg](./images/poliform_sofa_edited.jpg)
 [Product Page](https://sothebyshome.com/poliform-long-island-05-sofa-and-service-tables-sea-58946-47687.html)
 
