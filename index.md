@@ -7,7 +7,7 @@ Greetings and salutations! My name is Min and I’m a copywriter who likes to ts
 E-Commerce is an ever-changing industry that is continuously growing. Billions of products are sold online every single day. But the difference in sellable and non sellable merchandise can be benefitted by good product descriptions that include SEO rich keywords.
 
 ### Active Listings
-<br />
+
 ##### West Elm - Round Coffee Table
 ![png](./images/west_elm_coffee_table_1.png)
 ![png](./images/west_elm_coffee_table_2.png)
