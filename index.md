@@ -50,6 +50,10 @@ Congratulations! You’ve gotten your clients to sign up to receive daily emails
 
 # Website Copy
 There are many factors that go into a great website such as an user-friendly interface, visually appealing graphics, and of course great content. No matter what type of voice you want to channel for your page, I can be the writing chameleon that will adopt engaging copy that will entice the reader to stay and enjoy the information.
+
+## Bling Jewelry
 ![jpg](./images/BlingJewelry-homepage-June.jpg)
+
+## Gymtime
 ![png](./images/Gymtime HP.png)
 ![png](./images/Gymtime About.png)
