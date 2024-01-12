@@ -9,6 +9,14 @@ E-Commerce is an ever-changing industry that is continuously growing. Billions o
 
 ### Active Listings
 
+##### Kohler - Occasion™ Collection (2023)
+Screenshot TBD
+[Product Page](https://www.studiokohler.com/content/kohler-kds/en-us/featured/collections/fixtures-collections/occasion-collection.html)
+
+##### Kohler - Stillness™ Soak (2023)
+Screenshot TBD
+[Product Page](https://www.studiokohler.com/en-us/bathroom/bathing/31404-kohler-plumbinguscanada.html?sku=K-31404-HW1)
+
 ##### West Elm - Round Coffee Table (2021)
 Screenshot 1
 ![png](./images/west_elm_coffee_table_1.png)
