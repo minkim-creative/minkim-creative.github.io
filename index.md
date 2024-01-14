@@ -7,9 +7,9 @@ Greetings and salutations! My name is Min and I’m a copywriter who likes to ts
 # Product Copy
 E-Commerce is an ever-changing industry that is continuously growing. Billions of products are sold online every single day. But the difference in sellable and non sellable merchandise can be benefitted by good product descriptions that include SEO rich keywords.
 
-### Active Listings
+## Kohler
 
-##### Kohler - Occasion™ Collection (2023)
+### Occasion™ Collection (2023)
 
 Landing Page<br>
 ![png](./images/kohler_occasion_1.png)
@@ -20,9 +20,9 @@ Overview<br>
 Design Story<br>
 ![png](./images/kohler_occasion_3.png)
 
-[Link to collection page.](https://www.studiokohler.com/content/kohler-kds/en-us/featured/collections/fixtures-collections/occasion-collection.html)
+[Link to collection page](https://www.studiokohler.com/content/kohler-kds/en-us/featured/collections/fixtures-collections/occasion-collection.html)
 
-##### Kohler - Stillness™ Soak (2023)
+### Stillness™ Soak (2023)
 
 Product Page<br>
 ![png](./images/kohler_stillness_soak_1.png)
@@ -30,9 +30,11 @@ Product Page<br>
 Product Overview<br>
 ![png](./images/kohler_stillness_soak_2.png)
 
-[Link to product page.](https://www.studiokohler.com/en-us/bathroom/bathing/31404-kohler-plumbinguscanada.html?sku=K-31404-HW1)
+[Link to product page](https://www.studiokohler.com/en-us/bathroom/bathing/31404-kohler-plumbinguscanada.html?sku=K-31404-HW1)
 
-##### West Elm - Round Coffee Table (2021)
+## West Elm
+
+### Round Coffee Table (2021)
 
 Product Page<br>
 ![png](./images/west_elm_coffee_table_1.png)
@@ -45,7 +47,7 @@ Product Detail & Dimensions<br>
 
 [Link to product page](https://www.westelm.com/products/mid-century-art-display-round-coffee-table-cloud-h4475/)
 
-##### West Elm - Jensen Desk (2021)
+### Jensen Desk (2021)
 Product Page<br>
 ![png](./images/west_elm_desk_1.png)
 
@@ -57,13 +59,17 @@ Product Detail & Dimensions<br>
 
 [Link to product page](https://www.westelm.com/products/jensen-desk-h1694/)
 
-##### Sotheby's Home - Yoshiaki Ito (2017)
-![jpg](./images/yoshiaki_ito_edited.jpg)<br>
-[Product Page](https://sothebyshome.com/yoshiaki-ito-yosegi-stool-sea-63536-52484.html#)
+## Sotheby's Home
 
-##### Sotheby's Home - Poliform (2017)
+### Yoshiaki Ito (2017)
+![jpg](./images/yoshiaki_ito_edited.jpg)<br>
+
+[Link to product page](https://sothebyshome.com/yoshiaki-ito-yosegi-stool-sea-63536-52484.html#)
+
+### Poliform (2017)
 ![jpg](./images/poliform_sofa_edited.jpg)<br>
-[Product Page](https://sothebyshome.com/poliform-long-island-05-sofa-and-service-tables-sea-58946-47687.html)
+
+[Link to product page](https://sothebyshome.com/poliform-long-island-05-sofa-and-service-tables-sea-58946-47687.html)
 
 ***
 
@@ -72,19 +78,21 @@ Kickstarting or rebranding your company is always challenging. But it’s an exc
 
 ### Previous Clients
 - [Archie](https://www.callarchie.com/)
-![png](./images/archie_landing.png)<br>
+![png](./images/archie_landing.png)
+
 - [Layers](https://layerslife.com/)
 ![png](./images/layers_landing.png)
 
 ***
 
-# Email Copy
+# Email Copy - Bling Jewelry
 Congratulations! You’ve gotten your clients to sign up to receive daily emails that are going to bombard their inbox. Or perhaps it was just the fun and witty content that came with the promotion notifications. No matter what kind of tone you want the writing to convey, smart writing can increase a person back to your webpage.
- 
-Screenshot 1<br>
-<img src="./images/BlingJewelry-August-Birthstone.jpg" width="400"><br>
-Screenshot 2<br>
-<img src="./images/BlingJewelry-summer-nautical-jewelry.jpg" width="400"><br>
+
+Email Template 1<br>
+<img src="./images/BlingJewelry-August-Birthstone.jpg" width="400">
+
+Email Template 2<br>
+<img src="./images/BlingJewelry-summer-nautical-jewelry.jpg" width="400">
 
 ***
 
@@ -94,8 +102,9 @@ There are many factors that go into a great website such as an user-friendly int
 ## Bling Jewelry
 ![jpg](./images/BlingJewelry-homepage-June.jpg)
 
-## Gymtime
-Screenshot 1<br>
+## Gymtime Place
+Home Page<br>
 ![png](./images/Gymtime HP.png)<br>
-Screenshot 2<br>
+
+About<br>
 ![png](./images/Gymtime About.png)
