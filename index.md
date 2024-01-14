@@ -10,11 +10,13 @@ E-Commerce is an ever-changing industry that is continuously growing. Billions o
 ### Active Listings
 
 ##### Kohler - Occasion™ Collection (2023)
-#####[Kohler - Occasion™ Collection (2023)](https://www.studiokohler.com/content/kohler-kds/en-us/featured/collections/fixtures-collections/occasion-collection.html)
-<br>
-Overview<br>
+[Click here to visit the collection page.](https://www.studiokohler.com/content/kohler-kds/en-us/featured/collections/fixtures-collections/occasion-collection.html)<br>
+Landing Page<br>
 ![png](./images/kohler_occasion_1.png)<br>
-[Product Page](https://www.studiokohler.com/content/kohler-kds/en-us/featured/collections/fixtures-collections/occasion-collection.html)<br>
+Overview<br>
+![png](./images/kohler_occasion_2.png)<br>
+Design Story<br>
+![png](./images/kohler_occasion_3.png)<br>
 
 ##### Kohler - Stillness™ Soak (2023)
 Screenshot TBD<br>
