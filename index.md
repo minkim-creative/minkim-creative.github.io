@@ -10,38 +10,52 @@ E-Commerce is an ever-changing industry that is continuously growing. Billions o
 ### Active Listings
 
 ##### Kohler - Occasion™ Collection (2023)
-[Click here to visit the collection page.](https://www.studiokohler.com/content/kohler-kds/en-us/featured/collections/fixtures-collections/occasion-collection.html)
 
 Landing Page<br>
-![png](./images/kohler_occasion_1.png)<br>
+![png](./images/kohler_occasion_1.png)
 
 Overview<br>
-![png](./images/kohler_occasion_2.png)<br>
+![png](./images/kohler_occasion_2.png)
 
 Design Story<br>
-![png](./images/kohler_occasion_3.png)<br>
+![png](./images/kohler_occasion_3.png)
+
+[Link to collection page.](https://www.studiokohler.com/content/kohler-kds/en-us/featured/collections/fixtures-collections/occasion-collection.html)
 
 ##### Kohler - Stillness™ Soak (2023)
-Screenshot TBD<br>
-[Product Page](https://www.studiokohler.com/en-us/bathroom/bathing/31404-kohler-plumbinguscanada.html?sku=K-31404-HW1)<br>
+
+Product Page<br>
+![png](./images/kohler_stillness_soak_1.png)
+
+Product Overview<br>
+![png](./images/kohler_stillness_soak_2.png)
+
+[Link to product page.](https://www.studiokohler.com/en-us/bathroom/bathing/31404-kohler-plumbinguscanada.html?sku=K-31404-HW1)
 
 ##### West Elm - Round Coffee Table (2021)
-Screenshot 1<br>
-![png](./images/west_elm_coffee_table_1.png)<br>
-Screenshot 2<br>
-![png](./images/west_elm_coffee_table_2.png)<br>
-Screenshot 3<br>
-![png](./images/west_elm_coffee_table_3.png)<br>
-[Product Page](https://www.westelm.com/products/mid-century-art-display-round-coffee-table-cloud-h4475/)
+
+Product Page<br>
+![png](./images/west_elm_coffee_table_1.png)
+
+Product Overview<br>
+![png](./images/west_elm_coffee_table_2.png)
+
+Product Detail & Dimensions<br>
+![png](./images/west_elm_coffee_table_3.png)
+
+[Link to product page](https://www.westelm.com/products/mid-century-art-display-round-coffee-table-cloud-h4475/)
 
 ##### West Elm - Jensen Desk (2021)
-Screenshot 1<br>
-![png](./images/west_elm_desk_1.png)<br>
-Screenshot 2<br>
-![png](./images/west_elm_desk_2.png)<br>
-Screenshot 3<br>
+Product Page<br>
+![png](./images/west_elm_desk_1.png)
+
+Product Overview<br>
+![png](./images/west_elm_desk_2.png)
+
+Product Detail & Dimensions<br>
 ![png](./images/west_elm_desk_3.png)<br>
-[Product Page](https://www.westelm.com/products/jensen-desk-h1694/)
+
+[Link to product page](https://www.westelm.com/products/jensen-desk-h1694/)
 
 ##### Sotheby's Home - Yoshiaki Ito (2017)
 ![jpg](./images/yoshiaki_ito_edited.jpg)<br>
