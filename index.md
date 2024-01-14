@@ -55,19 +55,19 @@ Product Overview<br>
 ![png](./images/west_elm_desk_2.png)
 
 Product Detail & Dimensions<br>
-![png](./images/west_elm_desk_3.png)<br>
+![png](./images/west_elm_desk_3.png)
 
 [Link to product page](https://www.westelm.com/products/jensen-desk-h1694/)
 
 ## Sotheby's Home
 
 ### Yoshiaki Ito (2017)
-![jpg](./images/yoshiaki_ito_edited.jpg)<br>
+![jpg](./images/yoshiaki_ito_edited.jpg)
 
 [Link to product page](https://sothebyshome.com/yoshiaki-ito-yosegi-stool-sea-63536-52484.html#)
 
 ### Poliform (2017)
-![jpg](./images/poliform_sofa_edited.jpg)<br>
+![jpg](./images/poliform_sofa_edited.jpg)
 
 [Link to product page](https://sothebyshome.com/poliform-long-island-05-sofa-and-service-tables-sea-58946-47687.html)
 
@@ -76,16 +76,21 @@ Product Detail & Dimensions<br>
 # Branding Copy
 Kickstarting or rebranding your company is always challenging. But it’s an exciting opportunity for creatives to collaborate and develop wonderful content. A brand definitely needs a voice - a core visual that will let your audience understand who you are and what your brand represents. Great copywriting can shape the brand and give it life. I’ve had the privilege to work with great teams to help brainstorm and write content for various clients, anywhere from taglines to web copy.
 
-### Previous Clients
-- [Archie](https://www.callarchie.com/)
+## Archie
 ![png](./images/archie_landing.png)
 
-- [Layers](https://layerslife.com/)
+[Link to client page](https://www.callarchie.com/)
+
+## Layers
 ![png](./images/layers_landing.png)
+
+[Link to client page](https://layerslife.com/))
 
 ***
 
-# Email Copy - Bling Jewelry
+# Email Copy
+
+## Bling Jewelry
 Congratulations! You’ve gotten your clients to sign up to receive daily emails that are going to bombard their inbox. Or perhaps it was just the fun and witty content that came with the promotion notifications. No matter what kind of tone you want the writing to convey, smart writing can increase a person back to your webpage.
 
 Email Template 1<br>
