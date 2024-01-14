@@ -10,37 +10,37 @@ E-Commerce is an ever-changing industry that is continuously growing. Billions o
 ### Active Listings
 
 ##### Kohler - Occasion™ Collection (2023)
-Screenshot TBD
-[Product Page](https://www.studiokohler.com/content/kohler-kds/en-us/featured/collections/fixtures-collections/occasion-collection.html)
+Screenshot TBD<br>
+[Product Page](https://www.studiokohler.com/content/kohler-kds/en-us/featured/collections/fixtures-collections/occasion-collection.html)<br>
 
 ##### Kohler - Stillness™ Soak (2023)
-Screenshot TBD
-[Product Page](https://www.studiokohler.com/en-us/bathroom/bathing/31404-kohler-plumbinguscanada.html?sku=K-31404-HW1)
+Screenshot TBD<br>
+[Product Page](https://www.studiokohler.com/en-us/bathroom/bathing/31404-kohler-plumbinguscanada.html?sku=K-31404-HW1)<br>
 
 ##### West Elm - Round Coffee Table (2021)
-Screenshot 1
-![png](./images/west_elm_coffee_table_1.png)
-Screenshot 2
-![png](./images/west_elm_coffee_table_2.png)
-Screenshot 3
-![png](./images/west_elm_coffee_table_3.png)
+Screenshot 1<br>
+![png](./images/west_elm_coffee_table_1.png)<br>
+Screenshot 2<br>
+![png](./images/west_elm_coffee_table_2.png)<br>
+Screenshot 3<br>
+![png](./images/west_elm_coffee_table_3.png)<br>
 [Product Page](https://www.westelm.com/products/mid-century-art-display-round-coffee-table-cloud-h4475/)
 
 ##### West Elm - Jensen Desk (2021)
-Screenshot 1
-![png](./images/west_elm_desk_1.png)
-Screenshot 2
-![png](./images/west_elm_desk_2.png)
-Screenshot 3
-![png](./images/west_elm_desk_3.png)
+Screenshot 1<br>
+![png](./images/west_elm_desk_1.png)<br>
+Screenshot 2<br>
+![png](./images/west_elm_desk_2.png)<br>
+Screenshot 3<br>
+![png](./images/west_elm_desk_3.png)<br>
 [Product Page](https://www.westelm.com/products/jensen-desk-h1694/)
 
 ##### Sotheby's Home - Yoshiaki Ito (2017)
-![jpg](./images/yoshiaki_ito_edited.jpg)
+![jpg](./images/yoshiaki_ito_edited.jpg)<br>
 [Product Page](https://sothebyshome.com/yoshiaki-ito-yosegi-stool-sea-63536-52484.html#)
 
 ##### Sotheby's Home - Poliform (2017)
-![jpg](./images/poliform_sofa_edited.jpg)
+![jpg](./images/poliform_sofa_edited.jpg)<br>
 [Product Page](https://sothebyshome.com/poliform-long-island-05-sofa-and-service-tables-sea-58946-47687.html)
 
 ***
@@ -50,7 +50,7 @@ Kickstarting or rebranding your company is always challenging. But it’s an exc
 
 ### Previous Clients
 - [Archie](https://www.callarchie.com/)
-![png](./images/archie_landing.png)
+![png](./images/archie_landing.png)<br>
 - [Layers](https://layerslife.com/)
 ![png](./images/layers_landing.png)
 
@@ -59,10 +59,10 @@ Kickstarting or rebranding your company is always challenging. But it’s an exc
 # Email Copy
 Congratulations! You’ve gotten your clients to sign up to receive daily emails that are going to bombard their inbox. Or perhaps it was just the fun and witty content that came with the promotion notifications. No matter what kind of tone you want the writing to convey, smart writing can increase a person back to your webpage.
  
-Screenshot 1
-<img src="./images/BlingJewelry-August-Birthstone.jpg" width="400">
-Screenshot 2
-<img src="./images/BlingJewelry-summer-nautical-jewelry.jpg" width="400">
+Screenshot 1<br>
+<img src="./images/BlingJewelry-August-Birthstone.jpg" width="400"><br>
+Screenshot 2<br>
+<img src="./images/BlingJewelry-summer-nautical-jewelry.jpg" width="400"><br>
 
 ***
 
@@ -73,5 +73,7 @@ There are many factors that go into a great website such as an user-friendly int
 ![jpg](./images/BlingJewelry-homepage-June.jpg)
 
 ## Gymtime
-![png](./images/Gymtime HP.png)
+Screenshot 1<br>
+![png](./images/Gymtime HP.png)<br>
+Screenshot 2<br>
 ![png](./images/Gymtime About.png)
