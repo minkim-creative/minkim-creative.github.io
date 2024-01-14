@@ -3,6 +3,7 @@ Greetings and salutations! My name is Min and I’m a copywriter who likes to ts
 <br />
 
 ***
+***
 
 # Product Copy
 E-Commerce is an ever-changing industry that is continuously growing. Billions of products are sold online every single day. But the difference in sellable and non sellable merchandise can be benefitted by good product descriptions that include SEO rich keywords.
@@ -72,6 +73,7 @@ Product Detail & Dimensions<br>
 [Link to product page](https://sothebyshome.com/poliform-long-island-05-sofa-and-service-tables-sea-58946-47687.html)
 
 ***
+***
 
 # Branding Copy
 Kickstarting or rebranding your company is always challenging. But it’s an exciting opportunity for creatives to collaborate and develop wonderful content. A brand definitely needs a voice - a core visual that will let your audience understand who you are and what your brand represents. Great copywriting can shape the brand and give it life. I’ve had the privilege to work with great teams to help brainstorm and write content for various clients, anywhere from taglines to web copy.
@@ -84,8 +86,9 @@ Kickstarting or rebranding your company is always challenging. But it’s an exc
 ## Layers
 ![png](./images/layers_landing.png)
 
-[Link to client page](https://layerslife.com/))
+[Link to client page](https://layerslife.com/)
 
+***
 ***
 
 # Email Copy
@@ -99,6 +102,7 @@ Email Template 1<br>
 Email Template 2<br>
 <img src="./images/BlingJewelry-summer-nautical-jewelry.jpg" width="400">
 
+***
 ***
 
 # Website Copy
