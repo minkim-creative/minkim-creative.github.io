@@ -11,10 +11,11 @@ E-Commerce is an ever-changing industry that is continuously growing. Billions o
 ## Kohler
 
 ### Occasion™ Collection (2023)
-
-Screenshot TBD<br>
-
 [Link to collection page](https://www.studiokohler.com/content/kohler-kds/en-us/featured/collections/fixtures-collections/occasion-collection.html)
+
+Bathroom Sink Faucet<br>
+![png](./images/kohler_occasion.png)
+*I officially worked on the China copy of Occasion™ products, but they are not officially published. To show an example of my work on this project, this is a U.S. copy that has similar content.
 
 ### Stillness™ Soak (2023)
 
