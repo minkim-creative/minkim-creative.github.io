@@ -12,14 +12,7 @@ E-Commerce is an ever-changing industry that is continuously growing. Billions o
 
 ### Occasion™ Collection (2023)
 
-Landing Page<br>
-![png](./images/kohler_occasion_1.png)
-
-Overview<br>
-![png](./images/kohler_occasion_2.png)
-
-Design Story<br>
-![png](./images/kohler_occasion_3.png)
+Screenshot TBD<br>
 
 [Link to collection page](https://www.studiokohler.com/content/kohler-kds/en-us/featured/collections/fixtures-collections/occasion-collection.html)
 
