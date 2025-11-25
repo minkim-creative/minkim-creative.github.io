@@ -12,24 +12,34 @@ There are many factors that go into a great website such as an user-friendly int
 
 ### Header Banner
 ![png](./images/home_depot/01-Header_Banner_Desktop.png)
+<br>
 ### Information Banner with CTA
 ![png](./images/home_depot/02-Information_Banner_with_CTA_Desktop.png)
+<br>
 ### Style Info Pod
 ![png](./images/home_depot/03-Style_Info_Pod_Desktop.png)
+<br>
 ### Pricing Tier
 ![png](./images/home_depot/04-Pricing_Tier_Desktop.png)
+<br>
 ### How It Works
 ![png](./images/home_depot/05-How_It_Works_Desktop.png)
+<br>
 ### FAQ
 ![png](./images/home_depot/06-FAQ_Desktop.png)
+<br>
 ### SEO External Links Banner
 ![png](./images/home_depot/07-SEO_External_Links_Banner_Desktop.png)
+<br>
 ### Branding Video Promo
 ![png](./images/home_depot/08-Branding_Video_Promo_Desktop.png)
+<br>
 ### Vendor Introduction Banner
 ![png](./images/home_depot/09-Vendor_Introduction_Banner_Desktop.png)
+<br>
 ### SEO Marketing Copy
 ![png](./images/home_depot/10-SEO_Marketing_Copy_Desktop.png)
+<br>
 
 ## Bling Jewelry
 ![jpg](./images/BlingJewelry-homepage-June.jpg)
