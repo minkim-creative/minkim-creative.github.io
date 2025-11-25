@@ -5,6 +5,45 @@ Greetings and salutations! My name is Min and I’m a copywriter who likes to ts
 ***
 ***
 
+# Website Copy
+There are many factors that go into a great website such as an user-friendly interface, visually appealing graphics, and of course great content. No matter what type of voice you want to channel for your page, I can be the writing chameleon that will adopt engaging copy that will entice the reader to stay and enjoy the information.
+
+## Home Depot
+
+### Header Banner
+![png](./images/home_depot/01-Header_Banner_Desktop.png)
+### Information Banner with CTA
+![png](./images/home_depot/02-Information_Banner_with_CTA_Desktop.png)
+### Style Info Pod
+![png](./images/home_depot/03-Style_Info_Pod_Desktop.png)
+### Pricing Tier
+![png](./images/home_depot/04-Pricing_Tier_Desktop.png)
+### How It Works
+![png](./images/home_depot/05-How_It_Works_Desktop.png)
+### FAQ
+![png](./images/home_depot/06-FAQ_Desktop.png)
+### SEO External Links Banner
+![png](./images/home_depot/07-SEO_External_Links_Banner_Desktop.png)
+### Branding Video Promo
+![png](./images/home_depot/08-Branding_Video_Promo_Desktop.png)
+### Vendor Introduction Banner
+![png](./images/home_depot/09-Vendor_Introduction_Banner_Desktop.png)
+### SEO Marketing Copy
+![png](./images/home_depot/10-SEO_Marketing_Copy_Desktop.png)
+
+## Bling Jewelry
+![jpg](./images/BlingJewelry-homepage-June.jpg)
+
+## Gymtime Place
+Home Page<br>
+![png](./images/Gymtime HP.png)<br>
+
+About<br>
+![png](./images/Gymtime About.png)
+
+***
+***
+
 # Product Copy
 E-Commerce is an ever-changing industry that is continuously growing. Billions of products are sold online every single day. But the difference in sellable and non sellable merchandise can be benefitted by good product descriptions that include SEO rich keywords.
 
@@ -98,19 +137,3 @@ Email Template 1<br>
 
 Email Template 2<br>
 <img src="./images/BlingJewelry-summer-nautical-jewelry.jpg" width="400">
-
-***
-***
-
-# Website Copy
-There are many factors that go into a great website such as an user-friendly interface, visually appealing graphics, and of course great content. No matter what type of voice you want to channel for your page, I can be the writing chameleon that will adopt engaging copy that will entice the reader to stay and enjoy the information.
-
-## Bling Jewelry
-![jpg](./images/BlingJewelry-homepage-June.jpg)
-
-## Gymtime Place
-Home Page<br>
-![png](./images/Gymtime HP.png)<br>
-
-About<br>
-![png](./images/Gymtime About.png)
